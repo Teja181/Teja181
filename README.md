@@ -1,4 +1,5 @@
-- 👋 Hello, I’m Tarun Teja Appana
+- 👋 Hello, My name is Tarun Teja Appana.I am a Software Engineer
+
 •	Overall 7 years of IT experience in development and implementation of Web-based Client-Server applications using Java and J2EE technologies 
 •	Experienced in various phases of software development life cycle with Analysis, Design, Development, Integration and Implementation 
 •	Expertise in design and development of various web and enterprise-level applications using Java/J2EE technologies Such as Spring, Hibernate, EJB, JPA, JSF
@@ -28,7 +29,7 @@
 •	Expertise in Waterfall and Agile software development model & project planning using Microsoft Project Planner and JIRA.
 •	Highly motivated, dynamic, self-starter with keen interest in emerging technologies
 
-- 👀 I’m interested in learning new technology and problem solving
+- 👀 I’m interested in learning new technologies and problem solving
 - ✉️  You can contact me at Tejaa.j12@gmail.com
 
 <!---
